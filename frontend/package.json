@@ -1,0 +1,11 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Frontend for MongoDB CRUD App",
+  "scripts": {
+    "start": "serve -s public"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
